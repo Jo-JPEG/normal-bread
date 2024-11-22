@@ -1,0 +1,16 @@
+/* css variables  */
+
+:root {
+    --primary-font: "Poppins", sans-serif;
+    --secondary-font: "Abril Fatface", sefif;
+    --brand-font: "Cinzel Decorative", serif;
+
+}
+
+/* css test  */
+
+body {
+    color: blueviolet;
+    font-family: var(--brand-font);
+    background-color: chocolate;
+}
